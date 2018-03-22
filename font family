@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<style>
+h5
+.black-text{
+color:black;
+}
+p{
+font size:100px;
+}
+.green-text{
+color:green;
+	}
+</style>
+	
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+<body>
+<h5 class="black-text" color="black" font size="5px" font-fmily="lobster" >go to cdgdg.com</h5>
+<p class="green-text " color="green" font size="100px" font-family="monospace">i am slgjlgjlgjldgjdlglsghldshg
+sdgjdlsgjsdljgdslgjdslgjldsgjdlgjldgj
+hkhkjhkjhgkgkjgkgkgkgkggggkg
+ggjgggkgkgkg</p>
+</body>
+</html>
